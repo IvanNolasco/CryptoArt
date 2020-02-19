@@ -6,6 +6,6 @@ We used cryptographic primitives provided by PyCryptodome library for the securi
 
 For a more detailed description of Art check:
 * Project Presentation
-* Documentation Project
+* Project Documentation
 
 Both are right here in the repository.
